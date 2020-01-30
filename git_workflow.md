@@ -17,3 +17,4 @@ How are you?
 I just created a branch with git checkout -b name_of_branch
 I am no longer working on my local master branch
 "remote -v - this will show you what your remote repository is configured as. This is helpful for debugging."
+Hub browse allows you to open up the remote repo liked to your local
