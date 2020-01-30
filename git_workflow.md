@@ -15,3 +15,4 @@ Hello World!
 How are you?
 
 I just created a branch with git checkout -b name_of_branch
+I am no longer working on my local master branch
