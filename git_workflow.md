@@ -13,3 +13,5 @@ Now, remote master has all the hard work you've done! However, your local master
 
 Hello World!
 How are you?
+
+I just created a branch with git checkout -b name_of_branch
